@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83592f64-c2a7-44c4-8b64-66cd3aa87b43" name="GPU">
+        <fileTransfer accessType="SFTP" host="10.193.45.91" port="9010" sshConfigId="88e448f9-07fc-4b16-8876-7b97a44769da" sshConfig="bagration@10.193.45.91:9010 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
